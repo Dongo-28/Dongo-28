@@ -27,9 +27,13 @@
   <!-- Linha 3 -->
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
-  <img height="30" width="40" src="https://img.icons8.com/color/48/000000/canva.png">
-  <img height="30" width="40" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png">
+  <img height="30" width="40" src="https://img.icons8.com/color/48/000000/canva.png"><br>
+
+  <!-- Linha 4 (centralizada com C) -->
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <img height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
 </div>
+
 
 ##
 
