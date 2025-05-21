@@ -23,7 +23,7 @@
   <img align="center" alt="Amadeu-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
   <img align="right" alt="Amadeu-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> 
   <img align="center" alt="Amadeu-Canva" height="30" width="40" src="https://img.icons8.com/color/48/000000/canva.png">
-  <img align="center" alt="Photoshop" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
+  <img align="center" alt="Photoshop" height="30" width="40" src="https://img.icons8.com/color/48/adobe-photoshop--v1.png" />
 </div>
 
 ##
