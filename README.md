@@ -4,6 +4,9 @@
 <a href="https://github.com/Dongo-28">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Dongo-28&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dongo-28&layout=compact&langs_count=16&theme=dracula" />
+
+## 🤖👨‍💻 Linguagens e Tecnologias
+
 </a>
 <div style="display: inline_block"><br> 
   <img align="center" alt="Amadeu-JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -18,6 +21,7 @@
   <img align="center" alt="Amadeu-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"> 
   <img align="center" alt="Amadeu-Blender" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blender/blender-original.svg">
   <img align="right" alt="Amadeu-gif" src="https://cdn.discordapp.com/attachments/795358919417397249/825430589581688872/hi.gif"> 
+  <img align="center" alt="Amadeu-Canva" height="30" width="40" src="https://img.icons8.com/color/48/000000/canva.png">
 </div>
 
 ##
